@@ -1,4 +1,4 @@
 Get me the pen
 process the data
 
-Create a avatar for use
+Create an avatar for user
